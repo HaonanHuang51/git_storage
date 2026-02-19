@@ -365,37 +365,29 @@
             <mxPoint x="1600" y="920" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SOLVcBETHee3_Zd29vcZ-22" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=11;" value="&lt;div class=&quot;rtcContent&quot;&gt;&lt;div class=&quot;lineNode&quot;&gt;&lt;span style=&quot;white-space: pre; font-family: Menlo, Monaco, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 10pt; text-align: start; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;m&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-family: Menlo, Monaco, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 10pt; text-align: start; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;_clip&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;lineNode&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;span&gt;（内部函数）&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="70" x="2130" y="882" as="geometry" />
-        </mxCell>
-        <mxCell id="SOLVcBETHee3_Zd29vcZ-23" edge="1" parent="1" source="SOLVcBETHee3_Zd29vcZ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="SOLVcBETHee3_Zd29vcZ-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SOLVcBETHee3_Zd29vcZ-24" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=11;" value="&lt;div class=&quot;rtcContent&quot;&gt;&lt;div class=&quot;lineNode&quot;&gt;&lt;span style=&quot;white-space: pre; font-family: Menlo, Monaco, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 10pt; text-align: start; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;m_getinterval&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;lineNode&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;span&gt;（内部函数）&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="100" x="2130" y="959" as="geometry" />
-        </mxCell>
-        <mxCell id="SOLVcBETHee3_Zd29vcZ-25" edge="1" parent="1" source="SOLVcBETHee3_Zd29vcZ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="SOLVcBETHee3_Zd29vcZ-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SOLVcBETHee3_Zd29vcZ-27" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=11;" value="&lt;div class=&quot;rtcContent&quot;&gt;&lt;div class=&quot;lineNode&quot;&gt;&lt;span style=&quot;white-space: pre; font-family: Menlo, Monaco, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 10pt; text-align: start; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;m_box&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;lineNode&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;span&gt;（内部函数）&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="70" x="2130" y="1192" as="geometry" />
-        </mxCell>
-        <mxCell id="SOLVcBETHee3_Zd29vcZ-28" edge="1" parent="1" source="SOLVcBETHee3_Zd29vcZ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="SOLVcBETHee3_Zd29vcZ-27">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2130" y="1064.9999999999995" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="SOLVcBETHee3_Zd29vcZ-29" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=11;" value="&lt;div class=&quot;rtcContent&quot;&gt;&lt;div class=&quot;lineNode&quot;&gt;&lt;span style=&quot;white-space: pre; font-family: Menlo, Monaco, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 10pt; text-align: start; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;m_getxylimits&lt;/span&gt;&lt;span style=&quot;white-space: pre; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;（内部函数）&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="100" x="2130" y="1037" as="geometry" />
-        </mxCell>
-        <mxCell id="SOLVcBETHee3_Zd29vcZ-30" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=11;" value="&lt;div class=&quot;rtcContent&quot;&gt;&lt;div class=&quot;lineNode&quot;&gt;&lt;span style=&quot;white-space: pre; font-family: Menlo, Monaco, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 10pt; text-align: start; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; m_getlllimits&lt;/span&gt;&lt;span style=&quot;white-space: pre; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;（内部函数）&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="100" x="2130" y="1114" as="geometry" />
+          <mxGeometry height="50" width="100" x="2075" y="918" as="geometry" />
         </mxCell>
         <mxCell id="SOLVcBETHee3_Zd29vcZ-31" edge="1" parent="1" source="SOLVcBETHee3_Zd29vcZ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="SOLVcBETHee3_Zd29vcZ-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SOLVcBETHee3_Zd29vcZ-32" edge="1" parent="1" source="SOLVcBETHee3_Zd29vcZ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="SOLVcBETHee3_Zd29vcZ-30">
+        <mxCell id="SOLVcBETHee3_Zd29vcZ-33" parent="1" style="text;whiteSpace=wrap;html=1;align=center;" value="&lt;p dir=&quot;auto&quot; style=&quot;white-space: pre-wrap;&quot;&gt;根据用户指定的经纬度范围，计算出投影后平面坐标的 x/y 范围（xlims,ylims）&lt;/p&gt;" vertex="1">
+          <mxGeometry height="80" width="170" x="2190" y="904" as="geometry" />
+        </mxCell>
+        <mxCell id="SOLVcBETHee3_Zd29vcZ-34" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=11;" value="&lt;div class=&quot;rtcContent&quot;&gt;&lt;div class=&quot;lineNode&quot;&gt;&lt;span style=&quot;white-space: pre; font-family: Menlo, Monaco, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 10pt; text-align: start; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;m_getlllimits&lt;/span&gt;&lt;span style=&quot;white-space: pre; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;（内部函数）&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="100" x="2075" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="SOLVcBETHee3_Zd29vcZ-35" edge="1" parent="1" source="SOLVcBETHee3_Zd29vcZ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="SOLVcBETHee3_Zd29vcZ-34">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SOLVcBETHee3_Zd29vcZ-36" parent="1" style="text;whiteSpace=wrap;html=1;align=center;" value="&lt;p dir=&quot;auto&quot; style=&quot;white-space: pre-wrap;&quot;&gt;根据投影后的边界框（box），反算出对应的经纬度范围（尤其是极点、方位投影时很重要）&lt;/p&gt;" vertex="1">
+          <mxGeometry height="82" width="170" x="2190" y="984" as="geometry" />
+        </mxCell>
+        <mxCell id="SOLVcBETHee3_Zd29vcZ-37" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="&lt;p dir=&quot;auto&quot; style=&quot;white-space: pre-wrap;&quot;&gt;mp_azim.m、mp_omerc.m在初始化initialize的时候都是 mu_util(&#39;lllimits&#39;)&lt;/p&gt;" vertex="1">
+          <mxGeometry height="50" width="285" x="2075" y="1066" as="geometry" />
+        </mxCell>
+        <mxCell id="SOLVcBETHee3_Zd29vcZ-38" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="&lt;p dir=&quot;auto&quot; style=&quot;white-space-collapse: preserve;&quot;&gt;mp_cyl.m、mp_conic.m、mp_tmerc.m、mp_utm.m初始化initialize的时候都是 mu_util(&#39;xylimits&#39;);&lt;/p&gt;" vertex="1">
+          <mxGeometry height="50" width="285" x="2075" y="854" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
